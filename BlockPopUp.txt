@@ -1,0 +1,6 @@
+*ALL:https://raw.githubusercontent.com/megaquiz/monsterquiz/master/Block_ENG
+*ENGLISH:
+*SPANISH:https://raw.githubusercontent.com/megaquiz/monsterquiz/master/Block_ESP
+*PORTUGUESE:https://raw.githubusercontent.com/megaquiz/monsterquiz/master/Block_POR
+*ITALIAN:https://raw.githubusercontent.com/megaquiz/monsterquiz/master/Block_ITA
+*FRENCH:https://raw.githubusercontent.com/megaquiz/monsterquiz/master/Block_FRA
