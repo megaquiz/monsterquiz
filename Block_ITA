@@ -1,1 +1,11 @@
-
+x PARA POP UP ACTIVADO: "";
+x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
+->-0- PARA TODOS VERSION: ">"0";
+TITULO: "HEY!";
+CUERPO: "";
+x PARA ACEPTABLE OK: "OK!";
+x PARA CERRABLE: "x";
+-link- PARA LINK Y NO CERRABLE EN BOTON OK: "https://play.google.com/store/apps/details?id=com.MegaQuiz.GameCharacters";
+-link- PARA IMAGEN: "";
+-Regalar5Pistas- Funcion a ejecutar: "";Regalar5Pistas
+-1000- tiempo entre anuncios, por defecto 450: "60000";
