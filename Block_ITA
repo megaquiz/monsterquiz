@@ -8,4 +8,5 @@ x PARA CERRABLE: "x";
 -link- PARA LINK Y NO CERRABLE EN BOTON OK: "https://play.google.com/store/apps/details?id=com.MegaQuiz.GameCharacters";
 -link- PARA IMAGEN: "";
 -Regalar5Pistas- Funcion a ejecutar: "";Regalar5Pistas
+DESFASADO, NO VALE DE NADA pero hay que mantener las comillas: "";
 -1000- tiempo entre anuncios, por defecto 450: "60000";
